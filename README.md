@@ -16,7 +16,7 @@ The system processes video streams using a sophisticated AI model that detects i
 
 ## Visual Overview
 The following animation demonstrates the system's capability to analyze and label individuals in a surveillance video:
-![Risk Assessment in Action]
+![Risk Assessment in Action]https://github.com/nupurrathod/SafeSpace-Monitor-Social-Distance-Monitoring-System-/blob/main/output.gif
 
 
 ## Setup and Operation
@@ -25,4 +25,3 @@ To set up and run this project:
 2. Ensure you have the necessary Python packages installed: `opencv-python`, `numpy`, `tensorflow` (or `torch`), depending on the specifics of the implementation.
 3. Run the script with the appropriate parameters:
    ```bash
-
